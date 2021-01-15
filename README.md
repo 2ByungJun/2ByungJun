@@ -11,9 +11,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2ByungJun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p>
-  <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-DART-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-navy"/>
   <br>
   <img src="https://img.shields.io/badge/-Android-green"/>&nbsp
