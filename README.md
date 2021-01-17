@@ -1,7 +1,7 @@
 ### 👋 안녕하세요 개발자 이병준입니다! 👋
 
 <p>🤔 <b>I'm developing web, apps.</b></p>
-<p>🌱 I'm Byungjun Lee, a growing developer.</p>
+<p>🌱 I'm byungjun Lee, a growing developer.</p>
 </p>✨ <b>I want to make coding that helps someone.</b></p>
 
 <a href="https://velog.io/https://velog.io/@ieed0205"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ieed0205"/></a>
