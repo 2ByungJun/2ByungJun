@@ -18,15 +18,13 @@ ___
 
 ### 🔥 Skill
 
-| 기술 | 기술력 | 언어 | 내용 |
+| **기술** | **기술력** | **언어** | **내용** |
 |:--------|:--------|:--------|:--------|
-| EgovFramework |⭐⭐⭐⭐|Java,html,JS,CSS,SQL|시약관련 생물웹개발 사이트 참여(고객관리, 업무관리, 관리자 형상관리 등), 미용실 프로젝트 등|
-| Spring |⭐⭐⭐⭐|Java,html,JS,CSS,SQL| EgovFramework의 환경 |
+| Spring |⭐⭐⭐⭐|Java,html,JS,CSS,SQL| 시약관련 생물웹개발 사이트 참여(고객관리, 업무관리, 관리자 형상관리 등), 미용실 프로젝트 등 |
 | Spring-boot |⭐⭐⭐⭐|Java,SQL| 관리자(메뉴트리, 권한관리) 개발 중 |
-| Android |⭐|Java| 계산기, 기본개발 |
+| VueJS|⭐⭐⭐⭐|html,CSS,JS| 페이스북 Graph API, KakaoMap, Vuetify를 활용한 웹 개발 등 |
 | Flutter |⭐⭐⭐|Dart,SQL,NoSQL| 보육교사를 위한 코스관리 앱(키즈코스) |
-| VueJS|⭐⭐⭐|html,CSS,JS| 페이스북 Graph API, KakaoMap, Vuetify를 활용한 웹 개발 등 |
-| SQL |⭐⭐⭐⭐|SQL| MariaDB, MySQL, PostgreSQL 사용|
+| DB |⭐⭐⭐⭐|SQL| MariaDB, PostgreSQL 사용|
 ___
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2ByungJun)](https://github.com/anuraghazra/github-readme-stats)
