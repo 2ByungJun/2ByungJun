@@ -17,7 +17,8 @@
 ___
 
 ### 🔥 Skill
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 | **기술** | **기술력** | **언어** | **내용** |
 |:--------|:------------|:--------|:--------|
 | Spring |⭐⭐⭐⭐☆|Java,html,JS,CSS,SQL| 시약관련 생물웹개발 사이트 참여(고객관리, 업무관리, 관리자 형상관리 등), 미용실 프로젝트 등 |
@@ -31,6 +32,6 @@ ___
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qudwns1243)](https://solved.ac/qudwns1243)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2ByungJun&layout=compact)
 <br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2ByungJun)](https://github.com/anuraghazra/github-readme-stats)
+<p align="right">[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2ByungJun)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 
