@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2ByungJun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Hits](https://img.shields.io/github/followers/2ByungJun?label=Follow)
 
-### 👋  Hello My name is byungjun, I am a developer working at <a href="https://insilicogen.com/"><img src="https://img.shields.io/badge/-insilicogen-green"/></a>
+### 👋  Hello my name is byungjun, I am a developer working at <a href="https://insilicogen.com/"><img src="https://img.shields.io/badge/-insilicogen-green"/></a>
 
 <p>🤔 <b>I'm developing web, apps.</b></p>
 <p>🌱 I'm byungjun Lee, a growing developer.</p>
