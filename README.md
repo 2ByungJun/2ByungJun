@@ -10,22 +10,6 @@
 <a href="https://velog.io/@ieed0205"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ieed0205"/></a>
 <a href="mailto:qudwns1243@gamil.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qudwns1243@gamil.com"/></a>
 
-<p>
-  <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
-  <img src="https://img.shields.io/badge/-DART-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-MySQL-navy"/>
-  <br>
-  <img src="https://img.shields.io/badge/-Android-green"/>&nbsp
-  <img src="https://img.shields.io/badge/-Flutter-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-Spring4-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-SpringBoot-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-Nodejs-yellow"/>&nbsp
-  <img src="https://img.shields.io/badge/-Vuejs-green"/>
-  <br>
-  <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
-</p>
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2ByungJun)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2ByungJun&layout=compact)
 
