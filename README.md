@@ -3,6 +3,9 @@
 
 ### 👋  Hello my name is byungjun, I am a developer working at <a href="https://insilicogen.com/"><img src="https://img.shields.io/badge/-insilicogen-green"/></a>
 
+<a href="https://velog.io/@ieed0205"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ieed0205"/></a>
+<a href="mailto:qudwns1243@gamil.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qudwns1243@gamil.com"/></a>
+
 ### 💎 Career
 | 기간 | 내용 |
 |:--------|:--------|
@@ -25,9 +28,6 @@ ___
 | VueJS|⭐⭐⭐|html,CSS,JS| 페이스북 Graph API, KakaoMap, Vuetify를 활용한 웹 개발 등 |
 | SQL |⭐⭐⭐⭐|SQL| MariaDB, MySQL, PostgreSQL 사용|
 ___
-
-<a href="https://velog.io/@ieed0205"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ieed0205"/></a>
-<a href="mailto:qudwns1243@gamil.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qudwns1243@gamil.com"/></a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2ByungJun)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2ByungJun&layout=compact)
