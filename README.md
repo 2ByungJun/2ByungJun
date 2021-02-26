@@ -29,7 +29,7 @@ ___
 ___
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qudwns1243)](https://solved.ac/qudwns1243)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2ByungJun&layout=compact) <br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2ByungJun)](https://github.com/anuraghazra/github-readme-stats)
+<span style="float: right;">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2ByungJun&layout=compact)</span> <br>
+<span style="float: right;">[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2ByungJun)](https://github.com/anuraghazra/github-readme-stats)</span>
 
 
