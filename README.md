@@ -18,11 +18,18 @@ ___
 
 ### 🔥 Skill
 <a href="https://velog.io/@ieed0205/series/Spring-boot" target="_blank">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="springBoot" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="springBoot" width="40" height="40" />
 </a>
-<a href="https://velog.io/@ieed0205/series/Vue" target="_blank"><img src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" alt="vueJS" width="40" height="40"/></a>
-<a href="https://velog.io/@ieed0205/series/JS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://velog.io/@ieed0205/series/Flutter-%EC%95%8C%EA%B3%A0-%EB%B0%B0%EC%9A%B0%EC%9E%90" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://velog.io/@ieed0205/series/Vue" target="_blank">
+  <img src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" alt="vueJS" width="40" height="40"/>
+</a>
+<a href="https://velog.io/@ieed0205/series/JS" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a>
+<a href="https://velog.io/@ieed0205/series/Flutter-%EC%95%8C%EA%B3%A0-%EB%B0%B0%EC%9A%B0%EC%9E%90" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+</a>
+
 | **기술** | **기술력** | **언어** | **내용** |
 |:--------|:------------|:--------|:--------|
 | Spring |⭐⭐⭐⭐☆|Java,html,JS,CSS,SQL| 시약관련 생물웹개발 사이트 참여(고객관리, 업무관리, 관리자 형상관리 등), 미용실 프로젝트 등 |
