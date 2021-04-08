@@ -6,6 +6,8 @@
 <a href="https://velog.io/@ieed0205"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ieed0205"/></a>
 <a href="mailto:qudwns1243@gamil.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qudwns1243@gamil.com"/></a>
 
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2ByungJun)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 💎 Career
 | 기간 | 내용 |
 |:--------|:--------|
@@ -39,9 +41,6 @@ ___
 | Flutter |⭐⭐⭐☆☆|Dart| 키즈코스(보육교사를 위한 코스관리 앱) |
 | NodeJs |⭐⭐⭐☆☆|JS| Express, vueJS 서버 구축 |
 | DB |⭐⭐⭐⭐☆|SQL,NoSQL| MariaDB, PostgreSQL, airTable 사용|
-___
-
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2ByungJun)](https://github.com/anuraghazra/github-readme-stats)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2ByungJun&layout=compact)
 
