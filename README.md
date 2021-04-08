@@ -6,8 +6,6 @@
 <a href="https://velog.io/@ieed0205"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ieed0205"/></a>
 <a href="mailto:qudwns1243@gamil.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qudwns1243@gamil.com"/></a>
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2ByungJun)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 💎 Career
 | 기간 | 내용 |
 |:--------|:--------|
@@ -42,10 +40,20 @@ ___
 | NodeJs |⭐⭐⭐☆☆|JS| Express, vueJS 서버 구축 |
 | DB |⭐⭐⭐⭐☆|SQL,NoSQL| MariaDB, PostgreSQL, airTable 사용|
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2ByungJun&layout=compact)
-
 ---
 
+### 🌈Project
+
+| 프로젝트명 | 기술 | 소개 | 인원 | 개발기간 |
+|:--------|:--------|:--------|:--------|:--------|
+| SOPA | Eclipse<br>(Spring),<br>VueJS | 한우 멀티오믹스데이터 활용 플랫폼구축 참여<br>JS(ES6이상), VueJS활용 | 3명 | 2020.02 ~ 2020.04 |
+| [VuexBook](https://github.com/2ByungJun/VueJs_VuexBook) | VueJS | Vuex 사용법에 대한 정리 웹 | 1명 | 8일(학습기간포함) |
+| SFC | Eclipse<br>(Spring) | 올리고 주문 웹 서비스 개발 및 고도화 사업 참여<br>JAVA, JS(ES6이상) | 3명 | 2020.08(합류)-2021.01 |
+| [KidsCourse](https://github.com/2ByungJun/Flutter_KidsCourse) | Flutter,<br>NodeJS | 보육교사 차량코스 작성 앱<br>Dart,  JS(ES6이상) | 1명 | 2020.07-2020.11 |
+| [IsgBeauty](https://github.com/2ByungJun/Java_IsgBeauty) | Eclipse<br>(Spring) | 미용실 관리프로젝트<br>Java, JSP, JS | 3명 | 2020.06-2020.08 |
+___
+
+---
 
 
 
