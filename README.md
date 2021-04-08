@@ -39,8 +39,7 @@ ___
 | Flutter |⭐⭐⭐☆☆|Dart| 키즈코스(보육교사를 위한 코스관리 앱) |
 | NodeJs |⭐⭐⭐☆☆|JS| Express, vueJS 서버 구축 |
 | DB |⭐⭐⭐⭐☆|SQL,NoSQL| MariaDB, PostgreSQL, airTable 사용|
- 
----
+___
 
 ### 🌈Project
 
@@ -53,7 +52,6 @@ ___
 | [IsgBeauty](https://github.com/2ByungJun/Java_IsgBeauty) | Eclipse<br>(Spring) | 미용실 관리프로젝트<br>Java, JSP, JS | 3명 | 2020.06-2020.08 |
 ___
 
----
 
 
 
