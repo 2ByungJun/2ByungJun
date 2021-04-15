@@ -18,6 +18,9 @@
 ___
 
 ### 🔥 Skill
+<a href="https://velog.io/@ieed0205/series/Java" target="_blank">
+  <img src="https://images.velog.io/images/ieed0205/post/1c541cb8-0d61-40d8-bc84-773efdd74672/1.png" alt="spring" width="40" height="40" />
+</a>
 <a href="https://velog.io/@ieed0205/series/Spring-boot" target="_blank">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="springBoot" width="40" height="40" />
 </a>
@@ -30,6 +33,7 @@ ___
 <a href="https://velog.io/@ieed0205/series/Flutter-%EC%95%8C%EA%B3%A0-%EB%B0%B0%EC%9A%B0%EC%9E%90" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
 </a>
+
 
 | **기술** | **기술력** | **언어** | **내용** |
 |:--------|:------------|:--------|:--------|
