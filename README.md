@@ -22,10 +22,13 @@ ___
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring" width="40" height="40" />
 </a>
 <a href="https://velog.io/@ieed0205/series/Spring-boot" target="_blank">
-  <img src="https://images.velog.io/images/ieed0205/post/9a803608-8102-4a41-9c31-128db91a4387/11.png" alt="springBoot" width="50" height="50" />
+  <img src="https://images.velog.io/images/ieed0205/post/4c393e19-719a-4c30-bfae-83c4f99fec33/spring-boot.PNG" alt="springBoot" width="40" height="40" />
 </a>
 <a href="https://velog.io/@ieed0205/series/Vue" target="_blank">
   <img src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" alt="vueJS" width="40" height="40"/>
+</a>
+<a href="https://github.com/2ByungJun/NuxtJS_demo" target="_blank">
+  <img src="https://images.velog.io/images/ieed0205/post/dbe63096-9f41-4614-b705-25e21f4e0863/nuxt.PNG" alt="nuxtJS" width="40" height="40" />
 </a>
 <a href="https://velog.io/@ieed0205/series/JS" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -37,10 +40,11 @@ ___
 
 | **기술** | **기술력** | **언어** | **내용** |
 |:--------|:------------|:--------|:--------|
-| Spring |⭐⭐⭐⭐☆|Java,html,JS,CSS,SQL| 시약관련 생물웹개발 사이트 참여(고객관리, 업무관리, 관리자 형상관리 등), 미용실 프로젝트 등 |
-| Spring-boot |⭐⭐⭐⭐☆|Java,SQL| 관리자(메뉴트리, 권한관리) 개발 중 |
-| VueJS|⭐⭐⭐⭐☆|html,CSS,JS| 페이스북 Graph API, KakaoMap, Vuetify를 활용한 웹 개발 등 |
-| Flutter |⭐⭐⭐☆☆|Dart| 키즈코스(보육교사를 위한 코스관리 앱) |
+| Spring |⭐⭐⭐⭐☆|Java,JS(ES6),JQuery,SQL| MyBatis(PostgreSql, MariaDB, MySQL), 주문 및 분석 웹사이트 개발 등 |
+| Spring-boot |⭐⭐⭐⭐☆|Java,SQL| MyBatis(PostgreSql, MariaDB), 관리자 페이지 backend |
+| VueJS|⭐⭐⭐⭐☆|JS(ES6)| Vuetify, BootStrap Vue, Vuex, Router, coreUI 활용 |
+| NuxtJS|⭐⭐☆☆☆|JS(ES6)| Vuetify, BootStrap Vue, Vuex 활용|
+| Flutter |⭐⭐⭐☆☆|Dart| 키즈코스(보육교사를 위한 코스관리 앱), FirebaseFCM |
 | NodeJs |⭐⭐⭐☆☆|JS| Express, vueJS 서버 구축 |
 | DB |⭐⭐⭐⭐☆|SQL,NoSQL| MariaDB, PostgreSQL, airTable 사용|
 ___
