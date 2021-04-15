@@ -19,10 +19,10 @@ ___
 
 ### 🔥 Skill
 <a href="https://velog.io/@ieed0205/series/Java" target="_blank">
-  <img src="https://images.velog.io/images/ieed0205/post/1c541cb8-0d61-40d8-bc84-773efdd74672/1.png" alt="spring" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring" width="40" height="40" />
 </a>
 <a href="https://velog.io/@ieed0205/series/Spring-boot" target="_blank">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="springBoot" width="40" height="40" />
+  <img src="https://images.velog.io/images/ieed0205/post/9a803608-8102-4a41-9c31-128db91a4387/11.png" alt="springBoot" width="50" height="50" />
 </a>
 <a href="https://velog.io/@ieed0205/series/Vue" target="_blank">
   <img src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" alt="vueJS" width="40" height="40"/>
