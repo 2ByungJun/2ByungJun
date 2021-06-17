@@ -5,7 +5,7 @@
 
 <a href="https://velog.io/@ieed0205"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ieed0205"/></a>
 <a href="mailto:qudwns1243@gamil.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qudwns1243@gamil.com"/></a>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=BBANG-JUN)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ieed0205)](https://github.com/eungyeole/velog-readme-stats)
 
 ### 💎 Career
 | 기간 | 내용 |
