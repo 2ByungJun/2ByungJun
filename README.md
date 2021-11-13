@@ -14,4 +14,4 @@
 ### 📚velog : <a href="https://velog.io/@ieed0205" style="vertical-align: middle;"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ieed0205"/></a>
 ### 📧e-mail : <a href="mailto:qudwns1243@gamil.com" style="vertical-align: middle;"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qudwns1243@gamil.com"/></a>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qudwns1243)](https://solved.ac/qudwns1243)
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qudwns1243)](https://solved.ac/qudwns1243) -->
